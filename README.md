@@ -78,6 +78,10 @@ $$\Delta T=4\Delta\lambda$$
 
 ## Programmes et résultats
 
+![](Data/Figure_1.png)
+
+![](Data/Figure_2.png)
+
 
 
 
