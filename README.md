@@ -1,5 +1,9 @@
 # Equation du temps et analemme
 
+La vidéo :
+
+https://www.youtube.com/watch?v=Odg5WHMPTVE
+
 ## Description
 
 La mesure du temps est effectuée de nos jours par des **horloges atomiques** avec une **extrême précision**. Une autre référence de temps est donnée par **la vitesse de rotation de la Terre sur elle-même** , qui est relativement stable.
