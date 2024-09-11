@@ -79,7 +79,7 @@ $$\Delta T=4\Delta\lambda$$
 ## Programmes et résultats
 
 Le programme [**eqt_ana.py**](Code/eqt_ana.py) contient les fonctions permettant la génération des figures ci-dessous.
-Le notebook [**equation_du_temps_et_analemme.ipynb**] donne des exemples d'appels à ces fonctions.
+Le notebook [**equation_du_temps_et_analemme.ipynb**](Notebook/equation_du_temps_et_analemme.ipynb) donne des exemples d'appels à ces fonctions.
 
 ### Equation du temps
 
