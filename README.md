@@ -1,8 +1,6 @@
 # Equation du temps et analemme
 
-La vidéo :
-
-https://www.youtube.com/watch?v=Odg5WHMPTVE
+La vidéo : https://www.youtube.com/watch?v=Odg5WHMPTVE
 
 ## Description
 
